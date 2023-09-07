@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c0c039-56a9-483a-87d2-dfd5f3486ed2" name="Changes" comment="" />
+    <list default="true" id="74c0c039-56a9-483a-87d2-dfd5f3486ed2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/alx-portfolio_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alx-portfolio_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/afrah/FlaskMarket&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/alx-portfolio_project&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -112,6 +118,7 @@
       <workItem from="1691839876707" duration="6000" />
       <workItem from="1692265532836" duration="828000" />
       <workItem from="1692266452373" duration="1840000" />
+      <workItem from="1693838139524" duration="1198000" />
     </task>
     <servers />
   </component>
